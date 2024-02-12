@@ -7,4 +7,6 @@ int main() {
 
 // greuhguhisibi__________________vfivnvdnvks
 
-// pupupu
+// 
+
+// listochek
